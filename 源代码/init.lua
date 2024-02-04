@@ -1,0 +1,22 @@
+--名称
+appname="MC命令音乐助手"
+--版本号
+appver="1.0-beta3"
+--版本
+appcode="1.0.0.3"
+--SDK
+appsdk="15"
+--包名
+packagename="xyg.mc.yingyuezhusho"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "INTERNET",
+  "SYSTEM_ALERT_WINDOW",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+
+}

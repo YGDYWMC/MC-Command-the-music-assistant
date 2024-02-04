@@ -1,0 +1,12 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  layout_height="fill";
+  {
+    ImageView;
+    id="图标";
+    layout_width="50dp";
+    layout_height="50dp";
+    src="icon.png";
+  };
+};
